@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="methods" thread-count="1">
+    <listeners>
+        <listener class-name="base.Listeners"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="ApiTest">
+        <classes>
+            <class name="testCases.DeckOfCards">
+                <methods>
+                    <include name="T01_ShuffleTheCards_Successful" />
+                    <include name="T02_ShuffleTheCards_MaxNumberExceeded" />
+                    <include name="T03_DrawCard_Successful" />
+                    <include name="T04_DrawCard_MaxNumberExceeded" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

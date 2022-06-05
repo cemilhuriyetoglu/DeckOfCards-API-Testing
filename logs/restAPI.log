@@ -1,0 +1,12 @@
+2022-06-05 23:55:50 INFO  Deck of Cards:18 - T01 - Shuffle The Cards as Successful when the number of decks is 1
+2022-06-05 23:55:50 INFO  Deck of Cards:19 - T01 started
+2022-06-05 23:55:52 INFO  Deck of Cards:32 - T01 finished
+2022-06-05 23:55:52 INFO  Deck of Cards:38 - T02 - The cards could not be shuffled because the maximum number was exceeded
+2022-06-05 23:55:52 INFO  Deck of Cards:39 - T02 started
+2022-06-05 23:55:53 INFO  Deck of Cards:52 - T02 finished
+2022-06-05 23:55:53 INFO  Deck of Cards:58 - T03 - Draw a Cards as Successful
+2022-06-05 23:55:53 INFO  Deck of Cards:59 - T03 started
+2022-06-05 23:55:54 INFO  Deck of Cards:85 - T03 finished
+2022-06-05 23:55:54 INFO  Deck of Cards:91 - T04 - The card could not be draw because the maximum number was exceeded
+2022-06-05 23:55:54 INFO  Deck of Cards:92 - T04 started
+2022-06-05 23:55:54 INFO  Deck of Cards:119 - T04 finished
